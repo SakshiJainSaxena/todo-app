@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="215a0c51-065c-44b7-b427-d38d3f3e68ec" name="Changes" comment="Hello World">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_1/Bonus_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_1/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_10/Bonus_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_10/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_11/Bonus_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_11/Bonus_11_files/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_11/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_12/Bonus_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_12/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_13/Bonus_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_13/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_14/Bonus_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_14/Bonus_functions_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_14/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Bonus_15/Bonus_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Bonus_15/questions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/CE_1_Generate_random_whole_number_in_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/e1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/e2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/e3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/e4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/files/ideas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/files/projects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/output.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/Import_python_functions_samples/weather.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_15/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_2/Bonus_2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_2/Bonus_2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_2/CE_1_Infinite_While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_2/CE_2_While_Loop_and_User_Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_2/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_3/Bonus_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_3/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_4/Bonus_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_4/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_5/Bonus_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_5/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/Bonus_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/CE_1_Adding_to_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/CE_2_Generate_multiple_text_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/CE_3_Reading_multiple_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/members" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/presentation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/report" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_6/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_7/Bonus_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_7/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_8/Bonus_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_8/Bonus_8_Journal/3-1-25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_8/todo_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_9/Bonus_9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_9/Bonus_9.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1_to_Day20_To_Do_App/Day_9/todo_app.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2pRdliPzHC8atwla1cDAHunLWZ0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Parv Jain/PycharmProjects/pythonProject2024/Day1_to_Day20_To_Do_App/Day_15&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_15" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_14" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_13" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_12" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_15\Bonus_15" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_15\Import_python_functions_samples" />
+      <recent name="C:\Users\Parv Jain\PycharmProjects\pythonProject2024\Day1_to_Day20_To_Do_App\Day_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject2024" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="215a0c51-065c-44b7-b427-d38d3f3e68ec" name="Changes" comment="" />
+      <created>1732732974346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732732974346</updated>
+    </task>
+    <task id="LOCAL-00001" summary="functions and text file for todo app">
+      <created>1737834741140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737834741140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Hello World">
+      <created>1737836463835</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737836463835</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="functions and text file for todo app" />
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+  </component>
+</project>
